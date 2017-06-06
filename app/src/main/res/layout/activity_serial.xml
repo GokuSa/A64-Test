@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_serial"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="shine.com.test.activity.SerialActivity">
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="返回"/>
+    <Button
+        android:id="@+id/btn_send_instruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="发送指令"/>
+    <Button
+        android:id="@+id/btn_clsoe_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="关闭扫描灯"/>
+</LinearLayout>

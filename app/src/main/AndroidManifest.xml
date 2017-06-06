@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="shine.com.test"
+          android:sharedUserId="android.uid.system">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission
+        android:name="android.permission.SET_TIME"
+        tools:ignore="ProtectedPermissions"/>
+    <uses-permission
+        android:name="android.permission.REBOOT"
+        tools:ignore="ProtectedPermissions"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.OnOffActivity"
+            android:windowSoftInputMode="stateVisible">
+        </activity>
+
+        <service
+            android:name=".service.TestService"
+            android:exported="false">
+        </service>
+
+        <activity android:name=".activity.RootCommandActivity">
+        </activity>
+        <activity android:name=".activity.DateTimeActivity">
+        </activity>
+        <activity android:name=".activity.KeyBoardActivity">
+        </activity>
+
+        <service
+            android:name=".service.BackgroundService"
+            android:enabled="true"
+            android:exported="true">
+        </service>
+
+        <activity android:name=".activity.SerialActivity">
+        </activity>
+        <activity android:name=".activity.XmlActivity">
+        </activity>
+        <activity android:name=".activity.MyPreferenceActivity">
+        </activity>
+        <activity android:name=".applist.AppListActivity">
+        </activity>
+        <activity android:name=".activity.HomeActivity">
+        </activity>
+        <activity android:name=".activity.JodaTimeActivity">
+        </activity>
+    </application>
+
+</manifest>

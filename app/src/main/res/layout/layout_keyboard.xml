@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#131313"
+    android:orientation="vertical" >
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_one"
+            style="@style/style_key"
+            android:text="1"
+            android:layout_margin="4dp"
+            />
+
+        <Button
+            android:id="@+id/btn_two"
+            style="@style/style_key"
+            android:text="2" />
+
+        <Button
+             android:id="@+id/btn_three"
+            style="@style/style_key"
+            android:text="3" />
+
+        <Button
+             android:id="@+id/btn_four"
+            style="@style/style_key"
+            android:text="4" />
+
+        <Button
+            android:id="@+id/btn_five"
+            style="@style/style_key"
+            android:text="5" />
+
+        <Button
+            android:id="@+id/btn_six"
+            style="@style/style_key"
+            android:text="6" />
+
+        <Button
+            android:id="@+id/btn_seven"
+            style="@style/style_key"
+            android:text="7" />
+
+        <Button
+            android:id="@+id/btn_eight"
+            style="@style/style_key"
+            android:text="8" />
+
+        <Button
+            android:id="@+id/btn_nine"
+            style="@style/style_key"
+            android:text="9" />
+
+        <Button
+            android:id="@+id/btn_zero"
+            style="@style/style_key"
+            android:text="0" />
+    </LinearLayout>
+    
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_q"
+            style="@style/style_key"
+            android:text="1"
+            android:layout_margin="4dp"
+            />
+
+        <Button
+            android:id="@+id/btn_w"
+            style="@style/style_key"
+            android:text="2" />
+
+        <Button
+             android:id="@+id/btn_e"
+            style="@style/style_key"
+            android:text="3" />
+
+        <Button
+             android:id="@+id/btn_r"
+            style="@style/style_key"
+            android:text="4" />
+
+        <Button
+            android:id="@+id/btn_t"
+            style="@style/style_key"
+            android:text="5" />
+
+        <Button
+            android:id="@+id/btn_y"
+            style="@style/style_key"
+            android:text="6" />
+
+        <Button
+            android:id="@+id/btn_u"
+            style="@style/style_key"
+            android:text="7" />
+
+        <Button
+            android:id="@+id/btn_i"
+            style="@style/style_key"
+            android:text="8" />
+
+        <Button
+            android:id="@+id/btn_o"
+            style="@style/style_key"
+            android:text="9" />
+
+        <Button
+            android:id="@+id/btn_p"
+            style="@style/style_key"
+            android:text="0" />
+    </LinearLayout>
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_a"
+            style="@style/style_key"
+            android:text="1"
+            android:layout_margin="4dp"
+            />
+
+        <Button
+            android:id="@+id/btn_s"
+            style="@style/style_key"
+            android:text="2" />
+
+        <Button
+             android:id="@+id/btn_d"
+            style="@style/style_key"
+            android:text="3" />
+
+        <Button
+             android:id="@+id/btn_f"
+            style="@style/style_key"
+            android:text="4" />
+
+        <Button
+            android:id="@+id/btn_g"
+            style="@style/style_key"
+            android:text="5" />
+
+        <Button
+            android:id="@+id/btn_h"
+            style="@style/style_key"
+            android:text="6" />
+
+        <Button
+            android:id="@+id/btn_j"
+            style="@style/style_key"
+            android:text="7" />
+
+        <Button
+            android:id="@+id/btn_k"
+            style="@style/style_key"
+            android:text="8" />
+
+        <Button
+            android:id="@+id/btn_l"
+            style="@style/style_key"
+            android:text="9" />
+
+        <Button
+            android:id="@+id/btn_del"
+            style="@style/style_key"
+            android:text="del" />
+    </LinearLayout>
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_z"
+            style="@style/style_key"
+            android:text="1"
+            android:layout_margin="4dp"
+            />
+
+        <Button
+            android:id="@+id/btn_x"
+            style="@style/style_key"
+            android:text="2" />
+
+        <Button
+             android:id="@+id/btn_c"
+            style="@style/style_key"
+            android:text="3" />
+
+        <Button
+             android:id="@+id/btn_v"
+            style="@style/style_key"
+            android:text="4" />
+
+        <Button
+            android:id="@+id/btn_b"
+            style="@style/style_key"
+            android:text="5" />
+
+        <Button
+            android:id="@+id/btn_n"
+            style="@style/style_key"
+            android:text="6" />
+
+        <Button
+            android:id="@+id/btn_m"
+            style="@style/style_key"
+            android:text="7" />
+
+      
+
+        <Button
+            android:id="@+id/btn_coma"
+            style="@style/style_key"
+            android:text="9" />
+
+        <Button
+            android:id="@+id/btn_dot"
+            style="@style/style_key"
+            android:text="0" />
+          <Button
+            android:id="@+id/btn_slash"
+            style="@style/style_key"
+            android:text="8" />
+    </LinearLayout>
+</LinearLayout>
+
+   
+

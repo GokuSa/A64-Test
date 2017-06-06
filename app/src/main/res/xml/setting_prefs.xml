@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="其他设置"
+    >
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="auto_update"
+        android:persistent="true"
+        android:summaryOff="已关闭"
+        android:summaryOn="已启用"
+        android:title="启用自动更新"
+        />
+
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="web_setting"
+        android:persistent="true"
+        android:summaryOff="已关闭"
+        android:summaryOn="已启用"
+        android:title="web设置"
+        />
+
+</PreferenceScreen>

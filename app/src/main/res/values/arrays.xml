@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="masks">
+        <item>128.0.0.0</item>
+        <item>192.0.0.0</item>
+        <item>224.0.0.0</item>
+        <item>240.0.0.0</item>
+        <item>248.0.0.0</item>
+        <item>252.0.0.0</item>
+        <item>254.0.0.0</item>
+        <item>255.0.0.0</item>
+        <item>255.128.0.0</item>
+        <item>255.192.0.0</item>
+        <item>255.224.0.0</item>
+        <item>255.240.0.0</item>
+        <item>255.248.0.0</item>
+        <item>255.252.0.0</item>
+        <item>255.254.0.0</item>
+        <item>255.255.0.0</item>
+        <item>255.255.128.0</item>
+        <item>255.255.192.0</item>
+        <item>255.255.224.0</item>
+        <item>255.255.240.0</item>
+        <item>255.255.248.0</item>
+        <item>255.255.252.0</item>
+        <item>255.255.254.0</item>
+        <item>255.255.255.0</item>
+        <item>255.255.255.128</item>
+        <item>255.255.255.192</item>
+        <item>255.255.255.224</item>
+        <item>255.255.255.240</item>
+        <item>255.255.255.248</item>
+        <item>255.255.255.252</item>
+        <item>255.255.255.254</item>
+        <item>255.255.255.255</item>
+    </string-array>
+    <string-array name="lights">
+        <item>长红</item>
+        <item>长蓝</item>
+        <item>长绿</item>
+        <item>长橙</item>
+        <item>红闪</item>
+        <item>蓝闪</item>
+        <item>绿闪</item>
+        <item>橙闪</item>
+        <item>慢红闪</item>
+        <item>慢蓝闪</item>
+        <item>慢绿闪</item>
+        <item>慢橙闪</item>
+        <item>灭</item>
+    </string-array>
+     <string-array name="instructions">
+        <item>7E1001000000000000000000000000010103000012AA</item>
+        <item>7E1001000000000000000000000000010203000011AA</item>
+        <item>7E1001000000000000000000000000010303000010AA</item>
+         <item>7E1001000000000000000000000000010403000017AA</item>
+
+        <item>7E1001000000000000000000000000010102010012AA</item>
+        <item>7E1001000000000000000000000000010202010011AA</item>
+        <item>7E1001000000000000000000000000010302010010AA</item>
+        <item>7E1001000000000000000000000000010402010017AA</item>
+
+        <item>7E1001000000000000000000000000010102020011AA</item>
+        <item>7E1001000000000000000000000000010202020012AA</item>
+        <item>7E1001000000000000000000000000010302020013AA</item>
+        <item>7E1001000000000000000000000000010402020014AA</item>
+
+        <item>7E1001000000000000000000000000010001000011AA</item>
+    </string-array>
+
+</resources>
+
+
