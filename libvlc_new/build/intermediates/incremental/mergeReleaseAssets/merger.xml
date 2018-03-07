@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\workspace_lxl\A64Test\libvlc_new\assets"/><source path="E:\workspace_lxl\A64Test\libvlc_new\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\workspace_lxl\A64Test\libvlc_new\src\release\assets"/></dataSet></merger>

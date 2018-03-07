@@ -56,7 +56,6 @@ public class MainActivity extends AppCompatActivity{
                 start(DateTimeActivity.class);
                 break;
             case R.id.btn_joda_time:
-                start(JodaTimeActivity.class);
                 break;
             case R.id.btn_key_board:
                 start(KeyBoardActivity.class);

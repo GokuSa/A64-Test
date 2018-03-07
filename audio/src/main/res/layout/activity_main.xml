@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout  xmlns:android="http://schemas.android.com/apk/res/android"
+         xmlns:app="http://schemas.android.com/apk/res-auto"
+         xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="viewModel"
+            type="com.lxl.audio.AudioViewModel"/>
+    </data>
+<TableLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TableRow>
+<!--  android:addTextChangedListener="@{viewModel.mServerIpWatcher}"-->
+        <EditText
+            android:id="@+id/serverIp"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:inputType="textUri"
+            android:text="@={viewModel.mServerIp}"/>
+
+        <EditText
+            android:id="@+id/serverPort"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:text="@={viewModel.mServerPort}"/>
+    </TableRow>
+
+    <RadioGroup
+        android:id="@+id/rg_input_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onCheckedChanged="@{(rg,checkedId)->viewModel.onCheckedChange(rg,checkedId)}"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_mic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="麦克风"/>
+
+        <RadioButton
+            android:id="@+id/rb_inner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="板载声卡"/>
+
+
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/et_command"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:text="@={viewModel.mCommand}"/>
+    <TableRow>
+
+        <Button
+            android:id="@+id/btn_connect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_selector"
+            android:onClick="@{viewModel::startTalk}"
+            android:text="启动转发对话"/>
+
+        <Button
+            android:id="@+id/btn_direct_connect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="@{viewModel::startDirectTalk}"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/button_selector"
+            android:text="启动直连对话"/>
+
+        <Button
+            android:id="@+id/btn_disconnect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="@{viewModel::stopTalk}"
+            android:background="@drawable/button_selector"
+            android:text="断开对话"/>
+    </TableRow>
+</TableLayout>
+
+</layout>

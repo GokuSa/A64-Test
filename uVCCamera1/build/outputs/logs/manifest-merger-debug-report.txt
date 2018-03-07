@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:27:1-59:12
+	package
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:28:11-42
+		INJECTED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:27:11-69
+uses-sdk
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:30:5-43
+MERGED from [A64Test:libvlc_new:unspecified] E:\workspace_lxl\A64Test\libvlc_new\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [A64Test:usbcameralib:unspecified] E:\workspace_lxl\A64Test\usbcameralib\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\ed3e3efc08924525b8c811e8f9079dd0828c303a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\aed09468652527c4bf5547b5d94a79df88bf6fb1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\2043224d2c5f1767ad2ddbb07050715163d263ac\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\9d75b7abdd4b4a1f2d817a11cda336fefbd00642\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\2c0234c3133891f383e04ea94d86037496a10b01\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\a2227fe64cc3275697e8bb1e3696fb9f9111af6e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\ea243ec27377e99b3af3f8d2ec7cb07eb9e1c19e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\1693e900329ff91184928ccd1adb600bd1cf8d52\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\87e327b7ef534303a1ae048fcc1e33aaf5d0f498\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\ed3e3efc08924525b8c811e8f9079dd0828c303a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:30:15-41
+		INJECTED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:32:5-64
+	android:name
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:32:22-62
+uses-permission#android.permission.INTERNET
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:33:5-66
+	android:name
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:33:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:34:5-80
+	android:name
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:34:22-78
+uses-permission#android.permission.READ_FRAME_BUFFER
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:35:5-75
+	android:name
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:35:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:36:5-74
+	android:name
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:36:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:37:5-79
+	android:name
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:37:22-77
+application
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:39:5-57:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\ed3e3efc08924525b8c811e8f9079dd0828c303a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\aed09468652527c4bf5547b5d94a79df88bf6fb1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\2043224d2c5f1767ad2ddbb07050715163d263ac\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\9d75b7abdd4b4a1f2d817a11cda336fefbd00642\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\2c0234c3133891f383e04ea94d86037496a10b01\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\a2227fe64cc3275697e8bb1e3696fb9f9111af6e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\ea243ec27377e99b3af3f8d2ec7cb07eb9e1c19e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\1693e900329ff91184928ccd1adb600bd1cf8d52\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\87e327b7ef534303a1ae048fcc1e33aaf5d0f498\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:42:9-41
+	android:allowBackup
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:40:9-35
+	android:icon
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:41:9-45
+	android:theme
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:43:9-40
+activity#com.maowei.uvccamera1.MainActivity
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:44:9-49:20
+	android:screenOrientation
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:47:13-50
+	android:label
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:45:13-41
+activity#com.maowei.uvccamera1.USBCameraActivity
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:50:9-56:20
+	android:windowSoftInputMode
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:51:13-60
+	android:name
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:50:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:52:13-55:29
+action#android.intent.action.MAIN
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:53:17-68
+	android:name
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:54:17-76
+	android:name
+		ADDED from E:\workspace_lxl\A64Test\uVCCamera1\src\main\AndroidManifest.xml:54:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\ed3e3efc08924525b8c811e8f9079dd0828c303a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\aed09468652527c4bf5547b5d94a79df88bf6fb1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\2043224d2c5f1767ad2ddbb07050715163d263ac\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\9d75b7abdd4b4a1f2d817a11cda336fefbd00642\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\2c0234c3133891f383e04ea94d86037496a10b01\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\a2227fe64cc3275697e8bb1e3696fb9f9111af6e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\ea243ec27377e99b3af3f8d2ec7cb07eb9e1c19e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\1693e900329ff91184928ccd1adb600bd1cf8d52\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\87e327b7ef534303a1ae048fcc1e33aaf5d0f498\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\ed3e3efc08924525b8c811e8f9079dd0828c303a\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\ed3e3efc08924525b8c811e8f9079dd0828c303a\output\AndroidManifest.xml:26:9-47

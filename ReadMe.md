@@ -1,2 +1,8 @@
+
 app A64设备上硬件相关的测试 开关机 开关屏 重启等
 serial_project 来自网上的关于串口操作的原始demo，用于门灯，一维码扫描
+uVCCamera 是播放USB摄像头的演示
+libvlc 是vlc视频播放库
+playvideo 是使用vlc播放视频流的演示
+cameraPreview 摄像头编码(Buffer模式)，Surfacem模式未成功，Camera的封装和原数据的回调很有参考价值
+mediaCodecEncode 关键帧的处理有参考价值，实现了转发服务器需要的格式

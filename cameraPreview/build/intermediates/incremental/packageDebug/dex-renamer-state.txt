@@ -1,0 +1,7 @@
+#Mon Jan 29 14:38:08 GMT+08:00 2018
+base.0=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7da866d03df528a5e4cc5a904a3e02d8d2bc6e41
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_790dd76d96f6fa7129d8ede4298a24e06de9ca57\\classes.dex
+base.1=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_790dd76d96f6fa7129d8ede4298a24e06de9ca57
+file.0=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7da866d03df528a5e4cc5a904a3e02d8d2bc6e41\\classes.dex

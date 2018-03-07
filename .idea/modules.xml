@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/A64Test.iml" filepath="$PROJECT_DIR$/A64Test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameraPreview/cameraPreview.iml" filepath="$PROJECT_DIR$/cameraPreview/cameraPreview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grafika/grafika.iml" filepath="$PROJECT_DIR$/grafika/grafika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libvlc_new/libvlc_new.iml" filepath="$PROJECT_DIR$/libvlc_new/libvlc_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uVCCamera1/uVCCamera1.iml" filepath="$PROJECT_DIR$/uVCCamera1/uVCCamera1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usbcameralib/usbcameralib.iml" filepath="$PROJECT_DIR$/usbcameralib/usbcameralib.iml" />
     </modules>
   </component>
 </project>

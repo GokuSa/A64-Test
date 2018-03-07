@@ -39,14 +39,17 @@
         <item>长蓝</item>
         <item>长绿</item>
         <item>长橙</item>
+
         <item>红闪</item>
         <item>蓝闪</item>
         <item>绿闪</item>
         <item>橙闪</item>
+
         <item>慢红闪</item>
         <item>慢蓝闪</item>
         <item>慢绿闪</item>
         <item>慢橙闪</item>
+        
         <item>灭</item>
     </string-array>
      <string-array name="instructions">

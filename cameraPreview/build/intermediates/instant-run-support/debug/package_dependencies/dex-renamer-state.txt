@@ -1,0 +1,22 @@
+#Mon Jan 29 14:14:19 GMT+08:00 2018
+renamed.6=classes3.dex
+renamed.5=classes4.dex
+renamed.4=classes6.dex
+renamed.3=classes7.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes5.dex
+base.6=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a59ed07e34643d968cd4d4f5a5b1e406af79a958
+base.5=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d5dfd93e29790687876f7816af72c211c073ac6e
+base.4=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_c9002fd99ff676f62be67020f644527eba296f9b
+base.3=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_cfa7e4f6acdbb5a37cc4fde833ccf160c11355f4
+base.2=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0b1fd4d42e7ed17449ae22c2c0b9c78b38c8491b
+base.1=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_82fd784647d60c196d25b9214f4a2fc3bd1ef0de
+base.0=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-beta1_44b533709ce210fd369a26f74099dec42e1dc7c0
+file.6=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a59ed07e34643d968cd4d4f5a5b1e406af79a958\\classes.dex
+file.5=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d5dfd93e29790687876f7816af72c211c073ac6e\\classes.dex
+file.4=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_c9002fd99ff676f62be67020f644527eba296f9b\\classes.dex
+file.3=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_cfa7e4f6acdbb5a37cc4fde833ccf160c11355f4\\classes.dex
+file.2=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0b1fd4d42e7ed17449ae22c2c0b9c78b38c8491b\\classes.dex
+file.1=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_82fd784647d60c196d25b9214f4a2fc3bd1ef0de\\classes.dex
+file.0=E\:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-beta1_44b533709ce210fd369a26f74099dec42e1dc7c0\\classes.dex

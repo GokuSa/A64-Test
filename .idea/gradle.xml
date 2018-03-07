@@ -5,12 +5,15 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="D:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/cameraPreview" />
+            <option value="$PROJECT_DIR$/grafika" />
+            <option value="$PROJECT_DIR$/libvlc_new" />
+            <option value="$PROJECT_DIR$/uVCCamera1" />
+            <option value="$PROJECT_DIR$/usbcameralib" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

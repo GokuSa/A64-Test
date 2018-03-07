@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\workspace_lxl\A64Test\cameraPreview\libs"><file name="armeabi-v7a/libsendFrameInterface.so" path="E:\workspace_lxl\A64Test\cameraPreview\libs\armeabi-v7a\libsendFrameInterface.so"/></source></dataSet><dataSet config="debug"><source path="E:\workspace_lxl\A64Test\cameraPreview\src\debug\jniLibs"/></dataSet></merger>

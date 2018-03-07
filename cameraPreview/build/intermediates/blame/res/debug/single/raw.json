@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\res\\merged\\debug\\raw\\fragment_shader.glsl",
+        "source": "E:\\workspace_lxl\\A64Test\\cameraPreview\\src\\main\\res\\raw\\fragment_shader.glsl"
+    },
+    {
+        "merged": "E:\\workspace_lxl\\A64Test\\cameraPreview\\build\\intermediates\\res\\merged\\debug\\raw\\vertex_shader.glsl",
+        "source": "E:\\workspace_lxl\\A64Test\\cameraPreview\\src\\main\\res\\raw\\vertex_shader.glsl"
+    }
+]
