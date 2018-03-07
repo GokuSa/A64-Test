@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\workspace_lxl\A64Test\smartServicePublisher\src\main\jniLibs"><file name="armeabi/libSmartPublisher.so" path="E:\workspace_lxl\A64Test\smartServicePublisher\src\main\jniLibs\armeabi\libSmartPublisher.so"/></source></dataSet><dataSet config="debug"><source path="E:\workspace_lxl\A64Test\smartServicePublisher\src\debug\jniLibs"/></dataSet></merger>
